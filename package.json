@@ -1,0 +1,30 @@
+{
+  "name": "graphortfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nivo/bar": "^0.89.1",
+    "@nivo/core": "^0.89.1",
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.1.2",
+    "autoprefixer": "^10.4.21",
+    "chart.js": "^4.4.9",
+    "next": "^15.3.1",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0",
+    "tailwindcss": "^4.1.4"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3"
+  }
+}
