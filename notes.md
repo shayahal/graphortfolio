@@ -1,5 +1,5 @@
-Hey! I'm Shay. Loves graphs.
+# Welcome to Shay in Graphs!
 
-# Shay in Graphs
+Hi, I'm Shay. I love data, stories, and a good laugh. This site is a playful collection of personal graphs—some serious, some silly, all true to me.
 
-Welcome to the Shay in Graphs project! This site presents a gallery of interactive, fun, and insightful graphs. Use the Add New Graph page to contribute your own data visualizations. 
+Explore the gallery below to see my life in numbers, charts, and a bit of humor. Enjoy!
